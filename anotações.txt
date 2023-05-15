@@ -2,3 +2,6 @@ class - varias atribuições
 id - cpf do atributo, é unico, uma atribuição
 
 tag spam:
+
+o margin é o espaçamento externo
+o padding é o espaçamento interno 
