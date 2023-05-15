@@ -2,4 +2,22 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 128px;
     margin: 0 auto;
+    background-color: rgb(141, 114, 114);
+    color: rgb(24, 23, 23);
+}
+
+body.modo-escuro{
+    background-color: black;
+    color: antiquewhite;
+}
+
+header{
+  background-color: green;  
+  display: flex;
+  justify-content: space-between;
+}
+
+header .logo,
+header .imagem-botao{
+    width: 30px;
 }
