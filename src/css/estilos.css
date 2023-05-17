@@ -65,3 +65,8 @@ main .cartao-pokemon:hover {
 .modo-escuro .cartao-pokemon {
 	background-color: #a8a8a8;
 }
+
+main .cartao-pokemon .informacoes span {
+	background-color: aqua;
+	padding: 5px;
+}
