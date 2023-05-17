@@ -95,23 +95,23 @@ main .cartao-pokemon .tipo{
 }
 
 .grama {
-	background-color: rgb(167, 199, 167);
+	background-color: rgb(8, 252, 8);
 }
 
 .veneno{
-	background-color: pink;
+	background-color: rgb(255, 4, 234);
 }
 
 .fogo {
-	background-color: rgb(240, 187, 90);
+	background-color: rgb(241, 129, 0);
 }
 
 .agua{
-	background-color: aqua;
+	background-color: rgb(3, 172, 172);
 }
 
 .inseto {
-	background-color: rgb(93, 226, 32);
+	background-color: rgb(99, 192, 55);
 }
 
 main .descricao{
